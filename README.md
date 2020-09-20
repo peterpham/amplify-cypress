@@ -17,3 +17,4 @@ yarn start
 yarn run cypress open
 ```
 
+This will run test spec at `cypress/integration/authenticator_spec.js`
